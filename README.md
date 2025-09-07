@@ -1,4 +1,4 @@
-# 🏠 AI Room Furnishing Assistant
+#  AI Room Furnishing Assistant
 
 An intelligent web application that transforms empty or partially furnished rooms into beautifully designed spaces using AI-powered furniture integration. Built with Streamlit and powered by Google's Gemini AI model.
 
@@ -7,33 +7,33 @@ An intelligent web application that transforms empty or partially furnished room
 ![Google AI](https://img.shields.io/badge/google-ai-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## ✨ Features
+##  Features
 
-### 🎨 **Smart Room Design**
+###  **Smart Room Design**
 - **AI-Powered Furnishing**: Transform empty rooms into professionally designed spaces
 - **Multiple Style Options**: Choose from 10+ design styles (Modern, Traditional, Scandinavian, etc.)
 - **Customizable Preferences**: Fine-tune room type, color schemes, furniture styles, and lighting
 - **Style Variations**: Generate up to 4 different style variations for comparison
 
-### 🪑 **Furniture Integration**
+###  **Furniture Integration**
 - **Upload Custom Furniture**: Add your own furniture and accessory images
 - **Smart Integration**: AI seamlessly integrates uploaded items into room designs
 - **Furniture Preview**: Preview how your furniture looks in different styles
 - **Detailed Descriptions**: Provide context for each furniture item
 
-### 🖼️ **Visual Experience**
+###  **Visual Experience**
 - **Before/After Comparison**: Side-by-side comparison of original and furnished rooms
 - **High-Quality Images**: Professional-grade room visualizations
 - **Interactive Gallery**: Save and manage all your furnished room designs
 - **Download Options**: Download both original and furnished room images
 
-### ⚙️ **User-Friendly Interface**
+###  **User-Friendly Interface**
 - **Intuitive Design**: Clean, modern interface with professional styling
 - **Real-time Processing**: Live progress indicators and status updates
 - **Responsive Layout**: Works seamlessly on different screen sizes
 - **Session Management**: Maintains your work across browser sessions
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.11 or higher
@@ -71,13 +71,13 @@ An intelligent web application that transforms empty or partially furnished room
    - Enter your Google AI API key in the sidebar
    - Start furnishing rooms!
 
-## 📋 Requirements
+##  Requirements
 
 - **streamlit** >= 1.28.0 - Web application framework
 - **google-genai** >= 1.32.0 - Google AI SDK for Gemini integration
 - **Pillow** >= 10.0.0 - Image processing library
 
-## 🎯 How to Use
+##  How to Use
 
 ### 1. **Upload Room Image**
 - Upload a clear image of an empty or partially furnished room
@@ -108,7 +108,7 @@ An intelligent web application that transforms empty or partially furnished room
 - Download both original and furnished room images
 - Save designs to your gallery for future reference
 
-## 🎨 Supported Styles
+##  Supported Styles
 
 | Style | Description | Best For |
 |-------|-------------|----------|
@@ -123,7 +123,7 @@ An intelligent web application that transforms empty or partially furnished room
 | **Mid-Century Modern** | 1950s-60s inspired | Retro enthusiasts |
 | **Art Deco** | Geometric patterns, luxury | Glamorous spaces |
 
-## 🛠️ Configuration
+## 🛠 Configuration
 
 ### API Key Setup
 1. Visit [Google AI Studio](https://aistudio.google.com/apikey)
@@ -136,7 +136,7 @@ An intelligent web application that transforms empty or partially furnished room
 - Optimized for image generation and text processing
 - Fast response times with high-quality results
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-room-furnishing-assistant/
@@ -146,7 +146,7 @@ ai-room-furnishing-assistant/
 └── venv/                          # Virtual environment (created locally)
 ```
 
-## 🔧 Advanced Features
+##  Advanced Features
 
 ### Custom Furniture Integration
 - Upload multiple furniture items
@@ -166,7 +166,7 @@ ai-room-furnishing-assistant/
 - Download individual images or entire collections
 - Maintains design preferences across generations
 
-## 🎯 Tips for Best Results
+##  Tips for Best Results
 
 ### **Image Quality**
 - Use clear, well-lit photos
@@ -193,10 +193,6 @@ ai-room-furnishing-assistant/
 - Upload furniture you already own to see how it fits
 - Use the preview feature to experiment with different styles
 
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ### Development Setup
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -208,20 +204,14 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Google Gemini AI** - For providing the powerful AI model
 - **Streamlit** - For the excellent web application framework
 - **Pillow** - For robust image processing capabilities
 - **Open Source Community** - For inspiration and support
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/ai-room-furnishing-assistant/issues) page
-2. Create a new issue with detailed information
-3. Include screenshots and error messages if applicable
 
 ## 🔮 Future Enhancements
 
@@ -239,3 +229,4 @@ If you encounter any issues or have questions:
 **Built with ❤️ using Streamlit and Google Gemini AI**
 
 *Transform your spaces with the power of artificial intelligence!*
+
