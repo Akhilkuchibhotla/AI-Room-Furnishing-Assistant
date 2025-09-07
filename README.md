@@ -10,28 +10,28 @@ An intelligent web application that transforms empty or partially furnished room
 ##  Features
 
 ###  **Smart Room Design**
-- **AI-Powered Furnishing**: Transform empty rooms into professionally designed spaces
-- **Multiple Style Options**: Choose from 10+ design styles (Modern, Traditional, Scandinavian, etc.)
-- **Customizable Preferences**: Fine-tune room type, color schemes, furniture styles, and lighting
-- **Style Variations**: Generate up to 4 different style variations for comparison
+- **AI-Powered Furnishing** Transform empty rooms into professionally designed spaces
+- **Multiple Style Options** Choose from 10+ design styles (Modern, Traditional, Scandinavian, etc.)
+- **Customizable Preferences** Fine-tune room type, color schemes, furniture styles, and lighting
+- **Style Variations** Generate up to 4 different style variations for comparison
 
 ###  **Furniture Integration**
-- **Upload Custom Furniture**: Add your own furniture and accessory images
-- **Smart Integration**: AI seamlessly integrates uploaded items into room designs
-- **Furniture Preview**: Preview how your furniture looks in different styles
-- **Detailed Descriptions**: Provide context for each furniture item
+- **Upload Custom Furniture** Add your own furniture and accessory images
+- **Smart Integration** AI seamlessly integrates uploaded items into room designs
+- **Furniture Preview** Preview how your furniture looks in different styles
+- **Detailed Descriptions** Provide context for each furniture item
 
 ###  **Visual Experience**
-- **Before/After Comparison**: Side-by-side comparison of original and furnished rooms
-- **High-Quality Images**: Professional-grade room visualizations
-- **Interactive Gallery**: Save and manage all your furnished room designs
-- **Download Options**: Download both original and furnished room images
+- **Before/After Comparison** Side-by-side comparison of original and furnished rooms
+- **High-Quality Images** Professional-grade room visualizations
+- **Interactive Gallery** Save and manage all your furnished room designs
+- **Download Options** Download both original and furnished room images
 
 ###  **User-Friendly Interface**
-- **Intuitive Design**: Clean, modern interface with professional styling
-- **Real-time Processing**: Live progress indicators and status updates
-- **Responsive Layout**: Works seamlessly on different screen sizes
-- **Session Management**: Maintains your work across browser sessions
+- **Intuitive Design** Clean, modern interface with professional styling
+- **Real-time Processing** Live progress indicators and status updates
+- **Responsive Layout** Works seamlessly on different screen sizes
+- **Session Management** Maintains your work across browser sessions
 
 ##  Quick Start
 
@@ -85,12 +85,12 @@ An intelligent web application that transforms empty or partially furnished room
 - Ensure good lighting and clear visibility of the space
 
 ### 2. **Set Design Preferences**
-- **Room Type**: Choose from living room, bedroom, dining room, kitchen, office, etc.
-- **Design Style**: Select from modern, minimalist, traditional, contemporary, etc.
-- **Color Scheme**: Pick neutral, warm, cool, monochrome, pastel, bold, etc.
-- **Furniture Style**: Choose contemporary, vintage, modern, traditional, etc.
-- **Lighting**: Select natural, warm, cool, ambient, dramatic, etc.
-- **Additional Items**: Add plants, artwork, rugs, cushions, books, etc.
+- **Room Type** Choose from living room, bedroom, dining room, kitchen, office, etc.
+- **Design Style** Select from modern, minimalist, traditional, contemporary, etc.
+- **Color Scheme** Pick neutral, warm, cool, monochrome, pastel, bold, etc.
+- **Furniture Style** Choose contemporary, vintage, modern, traditional, etc.
+- **Lighting** Select natural, warm, cool, ambient, dramatic, etc.
+- **Additional Items** Add plants, artwork, rugs, cushions, books, etc.
 
 ### 3. **Upload Custom Furniture (Optional)**
 - Upload images of specific furniture or accessories you want to include
@@ -98,9 +98,9 @@ An intelligent web application that transforms empty or partially furnished room
 - Use the preview feature to see how they look in different styles
 
 ### 4. **Generate Designs**
-- **Single Style**: Generate one design with your preferences
-- **Multiple Styles**: Generate 4 different style variations
-- **Furniture Preview**: Preview your uploaded furniture in the room
+- **Single Style** Generate one design with your preferences
+- **Multiple Styles** Generate 4 different style variations
+- **Furniture Preview** Preview your uploaded furniture in the room
 
 ### 5. **Review and Download**
 - Compare before and after images
@@ -229,4 +229,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ using Streamlit and Google Gemini AI**
 
 *Transform your spaces with the power of artificial intelligence!*
+
 
