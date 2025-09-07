@@ -12,7 +12,7 @@ from datetime import datetime
 # Page configuration
 st.set_page_config(
     page_title="AI Room Furnishing Assistant",
-    page_icon="🏠",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -750,3 +750,4 @@ st.markdown("""
     <p>Built with Streamlit | <a href='https://ai.google.dev/gemini-api/docs/image-generation' target='_blank' style='color: #3182ce;'>Gemini API Documentation</a></p>
 </div>
 """, unsafe_allow_html=True)
+
