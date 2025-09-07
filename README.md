@@ -123,7 +123,7 @@ An intelligent web application that transforms empty or partially furnished room
 | **Mid-Century Modern** | 1950s-60s inspired | Retro enthusiasts |
 | **Art Deco** | Geometric patterns, luxury | Glamorous spaces |
 
-## 🛠 Configuration
+## Configuration
 
 ### API Key Setup
 1. Visit [Google AI Studio](https://aistudio.google.com/apikey)
@@ -200,7 +200,7 @@ ai-room-furnishing-assistant/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] 3D room visualization
 - [ ] Virtual reality integration
@@ -226,8 +226,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ using Streamlit and Google Gemini AI**
+**Built using Streamlit and Google Gemini AI**
 
 *Transform your spaces with the power of artificial intelligence!*
+
 
 
